@@ -1,17 +1,3 @@
-@font-face {
-  src: url(../fonts/Raleway-Regular.woff) format('woff'),
-        url(../fonts/Raleway-Regular.woff2) format('woff2');
-  font-weight: normal;
-  font-family: Raleway;
-};
-
-@font-face {
-  src: url(../fonts/Raleway-Bold.woff) format('woff'),
-        url(../fonts/Raleway-Bold.woff2) format('woff2');
-  font-weight: bold;
-  font-family: Raleway;
-};
-
 
 *,
 *::before,
@@ -37,9 +23,11 @@ p,
 ul,
 ol,
 li,
-blockquote {
+blockquote,
+span {
   margin: 0;
   padding: 0;
+
 }
 
 a {

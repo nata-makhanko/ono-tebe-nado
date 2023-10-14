@@ -6,9 +6,8 @@
 }
 
 body {
-  width: 1440px;
   margin: 0 auto;
-  font-family: Raleway, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
   padding: 90px 0;
   box-sizing: border-box;
 }
